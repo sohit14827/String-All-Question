@@ -1,0 +1,199 @@
+ Basic String Programs
+1️⃣ Write a program to take a string as input and print it.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Hello, World!  
+Output: Hello, World!  👆👉
+2️⃣ Write a program to find the length of a string without using length() method.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Java  
+Output: 4   👆👉
+3️⃣ Write a program to count the number of vowels and consonants in a given string.
+Example:
+
+yaml
+Copy
+Edit
+Input:  Hello  
+Output: Vowels: 2, Consonants: 3   👆👉
+🔹 String Manipulation Programs
+4️⃣ Write a program to reverse a string without using reverse() method.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Java  
+Output:  avaJ   👆👉 
+5️⃣ Write a program to check if a given string is a palindrome.
+(A string is a palindrome if it remains the same when reversed.)
+Example:
+
+makefile
+Copy
+Edit
+Input:  madam  
+Output:  Palindrome  
+6️⃣ Write a program to remove all white spaces from a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Hello World  
+Output: HelloWorld  
+7️⃣ Write a program to remove all digits from a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  H3lloW0rld  
+Output: HelloWorld  
+8️⃣ Write a program to remove all special characters from a string.
+Example:
+
+graphql
+Copy
+Edit
+Input:  J@v#a!  
+Output:  Java  
+9️⃣ Write a program to find the first non-repeating character in a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  programming  
+Output: p  
+🔟 Write a program to replace all occurrences of 'a' with 'o' in a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Java  
+Output:  Jovo  
+🔹 String Comparison and Searching Programs
+1️⃣1️⃣ Write a program to check if two strings are anagrams of each other.
+(An anagram means both strings contain the same characters but in a different order.)
+Example:
+
+makefile
+Copy
+Edit
+Input:  listen, silent  
+Output:  Anagram  
+1️⃣2️⃣ Write a program to count the occurrence of a character in a string.
+Example:
+
+vbnet
+Copy
+Edit
+Input:  Java, 'a'  
+Output:  2  
+1️⃣3️⃣ Write a program to check if a string contains only digits.
+Example:
+
+yaml
+Copy
+Edit
+Input:  12345  
+Output:  Yes  
+1️⃣4️⃣ Write a program to check if a string starts with a particular prefix.
+Example:
+
+yaml
+Copy
+Edit
+Input:  Java, prefix: Ja  
+Output:  True  
+1️⃣5️⃣ Write a program to count the number of words in a sentence.
+Example:
+
+kotlin
+Copy
+Edit
+Input:  Java is fun  
+Output:  3  
+🔹 String Conversion Programs
+1️⃣6️⃣ Write a program to convert a string to an integer (int).
+Example:
+
+vbnet
+Copy
+Edit
+Input:  "123"  
+Output:  123  
+1️⃣7️⃣ Write a program to convert an integer to a string.
+Example:
+
+vbnet
+Copy
+Edit
+Input:  123  
+Output:  "123"  
+1️⃣8️⃣ Write a program to convert a string to uppercase and lowercase.
+Example:
+
+yaml
+Copy
+Edit
+Input:  Java  
+Output:  UPPERCASE: JAVA, lowercase: java  
+🔹 Advanced String Programs
+1️⃣9️⃣ Write a program to remove duplicate characters from a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  banana  
+Output:  ban  
+2️⃣0️⃣ Write a program to split a sentence into words using a space as a delimiter.
+Example:
+
+kotlin
+Copy
+Edit
+Input:  Java is fun  
+Output:  ["Java", "is", "fun"]  
+2️⃣1️⃣ Write a program to count occurrences of each word in a sentence.
+Example:
+
+vbnet
+Copy
+Edit
+Input:  "apple banana apple"  
+Output:  apple: 2, banana: 1  
+2️⃣2️⃣ Write a program to find the longest word in a sentence.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Java programming language  
+Output:  programming  
+2️⃣3️⃣ Write a program to swap the first and last character of a string.
+Example:
+
+makefile
+Copy
+Edit
+Input:  Java  
+Output:  aavJ  
+2️⃣4️⃣ Write a program to check if a given string is a valid email address.
+Example:
+
+pgsql
+Copy
+Edit
+Input:  user@example.com  
+Output:  Valid Email  
