@@ -9,7 +9,7 @@ public class StringPalindrome5 {
 // Input:  madam  
 // Output:  Palindrome  
 public static void main(String[] args) {
-    String str = "sos";
+   
     
 }
 }
